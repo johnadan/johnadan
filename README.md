@@ -1,9 +1,9 @@
 ### Hey! I'm John McLem Adan 👋
 🔭 I’m a Full-Stack Web Developer at ZPHEN, a start-up e-commerce platform for hardware stores in the Philippines.
 <br>
-🔭 Outside work, I help out in building and maintaining our local tech community at http://pwapilipinas.org/ 
+🌱 I’m currently learning the TALL Preset (TailwindCSS, AlpineJS, Laravel, and Livewire) which is the tech stack that we are using right now in the company.
 <br>
-🌱 I’m currently learning the TALL Preset (TailwindCSS, AlpineJS, Laravel, and Livewire) which is the tech stack that we are using.
+🔭 Outside work, I help out in building and maintaining our local tech community at http://pwapilipinas.org/ 
 <br>
 📫 Have a project you'd like to talk about? Shoot me an email at mclemadan@gmail.com
 <!--
@@ -12,7 +12,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working as a Full-stack web developer at ZPHEN, a start-up e-commerce platform for hardware stores. 
-- 🌱 I’m currently learning the TALL Preset (TailwindCSS, AlpineJS, Laravel, and Livewire) which is the tech stack that we are using.
+- 🌱 I’m currently learning the TALL Preset (TailwindCSS, AlpineJS, Laravel, and Livewire) which is the tech stack that we are using in the company.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
