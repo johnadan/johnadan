@@ -1,8 +1,4 @@
 ### Hey! I'm John McLem Adan 👋
-🔭 I’m a Full-Stack Web Developer at Zphen, an e-commerce platform that gives retail hardware stores an opportunity to increase sales, reach more customers and sell their goods and products online.
-<br>
-🌱 I’m currently learning the TALL Preset (TailwindCSS, AlpineJS, Laravel, and Livewire) which is the tech stack that we are using right now in the company.
-<br>
 🔭 Outside work, I help out in building and maintaining our local tech community at http://pwapilipinas.org/ 
 <br>
 📫 Have a project you'd like to talk about? Shoot me an email at mclemadan@gmail.com
