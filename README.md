@@ -1,5 +1,5 @@
 ### Hey! I'm John McLem Adan 👋
-🔭 I’m a Full-Stack Web Developer at Zphen, a web application for hardware industry.
+🔭 I’m a Full-Stack Web Developer at Zphen, an e-commerce platform that gives retail hardware stores an opportunity to increase sales, reach more customers and sell their goods and products online.
 <br>
 🌱 I’m currently learning the TALL Preset (TailwindCSS, AlpineJS, Laravel, and Livewire) which is the tech stack that we are using right now in the company.
 <br>
