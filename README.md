@@ -1,5 +1,6 @@
 ### Hey! I'm John McLem Adan 👋
-🔭 Outside work, I help out in building and maintaining our local tech community at http://pwapilipinas.org/ 
+😄 I'm a web developer from Makati City in the Philippines. <br>
+🔭 Outside work, I serve as the Community Publishing and Content Lead at <a href="http://pwapilipinas.org/">PWA Pilipinas</a>, a local tech community that promotes interest in and the adoption of Progressive Web App as a software design approach to Filipino developers so they can provide a better user experience. 
 <br>
 📫 Have a project you'd like to talk about? Shoot me an email at mclemadan@gmail.com
 <!--
