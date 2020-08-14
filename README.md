@@ -1,8 +1,16 @@
 ### Hey! I'm John McLem Adan 👋
-😄 I'm a web developer from Makati City in the Philippines. <br>
+I'm an incoming Software Engineer at <a href="https://www.cloudpanda.ph/cp/">Cloud Panda</a>. <br>
 🔭 Outside work, I serve as the Community Publishing and Content Lead at <a href="http://pwapilipinas.org/">PWA Pilipinas</a>, a local tech community that promotes interest in and the adoption of Progressive Web App as a software design approach to Filipino developers so they can provide a better user experience. 
 <br>
-📫 Have a project you'd like to talk about? Shoot me an email at mclemadan@gmail.com
+:briefcase: Ex-<a href="https://www.zphen.com/">Zphen</a> Full-stack Developer and ex-<a href="https://i4asiacorp.com/">i4 Asia</a> PHP/Laravel Developer
+<br>
+😄 Pronouns: he/him/his
+
+### Get in Touch
+:man: Personal website: http://johnmclemadan.herokuapp.com/ <br>
+:bird: Twitter: https://twitter.com/mackysig_ph <br>
+:computer: Dev.to: https://dev.to/johnadan <br>
+📫 Email: mclemadan@gmail.com
 <!--
 **johnadan/johnadan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
