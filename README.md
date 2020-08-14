@@ -1,5 +1,5 @@
 ### Hey! I'm John McLem Adan 👋
-I'm an incoming Software Engineer at <a href="https://www.cloudpanda.ph/cp/">Cloud Panda</a>. <br>
+I'm an incoming Software Engineer at <a href="https://www.cloudpanda.ph/cp/">Cloud Panda</a>. <br> <br>
 🔭 Outside work, I serve as the Community Publishing and Content Lead at <a href="http://pwapilipinas.org/">PWA Pilipinas</a>, a local tech community that promotes interest in and the adoption of Progressive Web App as a software design approach to Filipino developers so they can provide a better user experience. 
 <br>
 :briefcase: Ex-<a href="https://www.zphen.com/">Zphen</a> Full-stack Developer and ex-<a href="https://i4asiacorp.com/">i4 Asia</a> PHP/Laravel Developer
