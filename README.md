@@ -1,4 +1,4 @@
-### Hey! I'm John McLem Adan 👋
+### Hello World! I'm John McLem Adan 👋
 I'm a Software Engineer at <a href="https://www.cloudpanda.ph/cp/">Cloud Panda</a>. <br> <br>
 🔭 Outside work, I serve as the Community Publishing and Content Lead at <a href="http://pwapilipinas.org/">PWA Pilipinas</a>, a local tech community that promotes interest in and the adoption of Progressive Web App as a software design approach to Filipino developers so they can provide a better user experience. 
 <br>
