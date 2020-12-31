@@ -11,6 +11,7 @@ I'm a Software Engineer at <a href="https://www.cloudpanda.ph/cp/">Cloud Panda</
 :bird: Twitter: https://twitter.com/mackysig_ph <br>
 :computer: Dev.to: https://dev.to/johnadan <br>
 📫 Email: mclemadan@gmail.com
+<br>
 <!--
 **johnadan/johnadan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,3 +26,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=johnadan&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnadan&show_icons=true&theme=material-palenight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lemadan&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
