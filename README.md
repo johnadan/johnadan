@@ -1,5 +1,5 @@
 ### Hello World! I'm John McLem Adan 👋
-I'm a Registered Marketing Professional turned Software Engineer. I've worked with a variety of startups in the Philippines for 3 years in the fields of consulting, information technology outsourcing, and financial technology. Currently, I'm a Back-End Web Developer at <a href="https://pisopay.com.ph/">PisoPay</a>. <br> <br>
+I'm a Registered Marketing Professional turned Software Engineer. I've worked with a variety of startups in the Philippines for 3 years in the fields of consulting, information technology outsourcing, and financial technology. <br> Currently, I'm a Back-End Web Developer at <a href="https://pisopay.com.ph/">PisoPay</a>. <br> 
 🔭 Outside work, I serve as the Community Publishing and Content Lead at <a href="http://pwapilipinas.org/">PWA Pilipinas</a>, a local tech community that promotes interest in and the adoption of Progressive Web App as a software design approach to Filipino developers so they can provide a better and more seamless user experience. 
 <br> 
 :briefcase: Ex-<a href="https://i4asiacorp.com/">i4 Asia</a> PHP Web Developer, ex-<a href="https://www.zphen.com/">Zphen</a> Full-Stack Web Developer, and ex-<a href="https://www.cloudpanda.ph/cp/">Cloud Panda</a> Software Engineer  
