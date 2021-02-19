@@ -5,7 +5,9 @@ I'm a Registered Marketing Professional turned Software Engineer. I've worked wi
 :briefcase: Ex-<a href="https://i4asiacorp.com/">i4 Asia</a> PHP Web Developer, ex-<a href="https://www.zphen.com/">Zphen</a> Full-Stack Web Developer, and ex-<a href="https://www.cloudpanda.ph/cp/">Cloud Panda</a> Software Engineer  
 <br>
 😄 Pronouns: he/him/his
-
+<br> 
+<br> 
+![](https://komarev.com/ghpvc/?username=johnadan&color=blueviolet&style=plastic)
 ### Get in Touch
 :man: Personal website: http://johnmclemadan.herokuapp.com/ <br>
 :bird: Twitter: https://twitter.com/mackysig_ph <br>
