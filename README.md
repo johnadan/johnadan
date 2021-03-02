@@ -35,4 +35,5 @@ Here are some ideas to get you started:
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lemadan&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
+### Spotify Now Playing 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12153227175&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
