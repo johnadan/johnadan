@@ -1,4 +1,4 @@
-<h1 align="center">Hello world! 👋, I'm John McLem Adan</h1>
+<h1 align="center">Hello world! I'm John McLem Adan 👋 </h1>
 <h3 align="center">A Back-End Web Developer from Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnadan&label=Profile%20views&color=0e75b6&style=flat" alt="johnadan" /> </p>
@@ -9,17 +9,17 @@
 
 - 🌱 I’m currently learning **react, vue, security**
 
-- 👨‍💻 All of my projects are available at [https://johnmclemadan.herokuapp.com/](https://johnmclemadan.herokuapp.com/)
+- 👨‍💻 All of my projects are available at **[https://johnmclemadan.herokuapp.com/](https://johnmclemadan.herokuapp.com/)**
 
-- 📝 I regularly write articles on [https://johnmclemadan.medium.com/](https://johnmclemadan.medium.com/)
+- 📝 I write articles on **[https://johnmclemadan.medium.com/](https://johnmclemadan.medium.com/)**
 
-- 💬 Ask me about **php, laravel**
+- 💬 Ask me about **php, laravel, progressive web apps**
 
-- 📫 How to reach me **mclemadan@gmail.com**
+- 📫 Reach me via email at **mclemadan@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12HSZqcZubnRSubWmHlvKTbDQps4US-88/view](https://drive.google.com/file/d/12HSZqcZubnRSubWmHlvKTbDQps4US-88/view)
+- 📄 Know more about my experiences: [https://bit.ly/3qc05Rt](https://bit.ly/3qc05Rt)
 
-- ⚡ Fun fact **I'm a Registered Marketing Professional and a former QA Tester**
+- ⚡ Fun fact: **I'm a Registered Marketing Professional and a former QA Tester**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -51,11 +51,17 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/mackysig"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mackysig" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/mackysig"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mackysig" /></a></p><br><br>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=johnadan&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnadan&show_icons=true&theme=material-palenight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnadan&show_icons=true&locale=en&layout=compact" alt="johnadan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnadan&show_icons=true&locale=en" alt="johnadan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnadan&show_icons=true&theme=material-palenight&layout=compact" alt="johnadan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnadan&" alt="johnadan" /></p>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lemadan&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+
+### Spotify Now Playing 🎧
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12153227175&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
