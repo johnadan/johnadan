@@ -1,5 +1,5 @@
 <h1 align="center">Hello world! I'm John McLem Adan 👋 </h1>
-<h3 align="center">A Back-End Web Developer from Philippines</h3>
+<h3 align="center">A Software Engineer from the Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnadan&label=Profile%20views&color=0e75b6&style=flat" alt="johnadan" /> </p>
 
@@ -7,19 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/mackysig_ph" target="blank"><img src="https://img.shields.io/twitter/follow/mackysig_ph?logo=twitter&style=for-the-badge" alt="mackysig_ph" /></a> </p>
 
-- 🌱 I’m currently learning **react, vue, security**
+- 🌱 I’m currently learning **Vue, Web Security**
 
 - 👨‍💻 All of my projects are available at **[https://johnmclemadan.herokuapp.com/](https://johnmclemadan.herokuapp.com/)**
 
 - 📝 I write articles on **[https://johnmclemadan.medium.com/](https://johnmclemadan.medium.com/)**
 
-- 💬 Ask me about **php, laravel, progressive web apps**
+- 💬 Ask me about **PHP, Laravel, Progressive Web Apps, Career Switch**
 
 - 📫 Reach me via email at **mclemadan@gmail.com**
 
 - 📄 Know more about my experiences: [https://bit.ly/3qc05Rt](https://bit.ly/3qc05Rt)
 
-- ⚡ Fun fact: **I'm a Registered Marketing Professional and a former QA Tester**
+- ⚡ Fun fact: **I'm a Registered Marketing Professional and a former Quality Assurance Tester**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
