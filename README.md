@@ -57,11 +57,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnadan&show_icons=true&theme=material-palenight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/johnadan/johnadan/blob/master/devcard.svg" width="400" alt="John McLem Adan's Dev Card"/></a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnadan&show_icons=true&theme=material-palenight&layout=compact" alt="johnadan" /></p>
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lemadan&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ### Spotify Now Playing 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12153227175&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
