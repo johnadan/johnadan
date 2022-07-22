@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mackysig_ph" target="blank"><img src="https://img.shields.io/twitter/follow/mackysig_ph?logo=twitter&style=for-the-badge" alt="mackysig_ph" /></a> </p>
 
-- 🌱 I’m currently learning **Vue, Web Security**
+- 🌱 I’m currently learning **MongoDB**
 
 - 👨‍💻 All of my projects are available at **[https://johnmclemadan.herokuapp.com/](https://johnmclemadan.herokuapp.com/)**
 
@@ -17,7 +17,7 @@
 
 - 📫 Reach me via email at **mclemadan@gmail.com**
 
-- 📄 Know more about my experiences: [https://bit.ly/3qc05Rt](https://bit.ly/3qc05Rt)
+- 📄 Know more about my experiences: [https://drive.google.com/file/d/11XUhzj-SBR-Dy5OoZ1GRK88ITEHDSalF/view?usp=sharing](https://drive.google.com/file/d/11XUhzj-SBR-Dy5OoZ1GRK88ITEHDSalF/view?usp=sharing)
 
 - ⚡ Fun fact: **I'm a Registered Marketing Professional and a former Quality Assurance Tester**
 
