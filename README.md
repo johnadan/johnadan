@@ -7,19 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/mackysig_ph" target="blank"><img src="https://img.shields.io/twitter/follow/mackysig_ph?logo=twitter&style=for-the-badge" alt="mackysig_ph" /></a> </p>
 
-- 🌱 I’m currently learning **MongoDB**
+- 🌱 I’m currently learning **MongoDB & NodeJS**
 
 - 👨‍💻 All of my projects are available at **[https://johnmclemadan.herokuapp.com/](https://johnmclemadan.herokuapp.com/)**
 
 - 📝 I write articles on **[https://johnmclemadan.medium.com/](https://johnmclemadan.medium.com/)**
 
-- 💬 Ask me about **PHP, Laravel, Progressive Web Apps, Career Switch**
+- 💬 Ask me about **PHP, Laravel, Progressive Web Apps, & Career Switch**
 
 - 📫 Reach me via email at **mclemadan@gmail.com**
 
 - 📄 Know more about my experiences: [https://drive.google.com/file/d/11XUhzj-SBR-Dy5OoZ1GRK88ITEHDSalF/view?usp=sharing](https://drive.google.com/file/d/11XUhzj-SBR-Dy5OoZ1GRK88ITEHDSalF/view?usp=sharing)
 
-- ⚡ Fun fact: **I'm a Registered Marketing Professional and a former Quality Assurance Tester**
+- ⚡ Fun fact: **I'm a Registered Marketing Professional and ex-Quality Assurance Tester**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
