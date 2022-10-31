@@ -1,5 +1,5 @@
 <h1 align="center">Hello world! I'm John McLem Adan 👋 </h1>
-<h3 align="center">A Software Engineer from the Philippines</h3>
+<h3 align="center">A Software Craftsman from the Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnadan&label=Profile%20views&color=0e75b6&style=flat" alt="johnadan" /> </p>
 
