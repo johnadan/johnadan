@@ -1,5 +1,7 @@
-<h1 align="center">Hello world! I'm John McLem Adan 👋 </h1>
-<h3 align="center">A Software Craftsman from the Philippines</h3>
+<!-- <h1 align="center">Hello world! I'm John McLem Adan 👋 </h1> -->
+[![Typing SVG](https://readme-typing-svg.demolab.com/?width=450&pause=2000&lines=Hello+world!;I'm+John+McLem+Adan.;A+Software+Craftsman+from+the+Philippines)](https://git.io/typing-svg) 
+<!-- <h3 align="center">A Software Craftsman from the Philippines</h3> -->
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+Software+Craftsman+from+the+Philippines)](https://git.io/typing-svg) -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnadan&label=Profile%20views&color=0e75b6&style=flat" alt="johnadan" /> </p>
 
