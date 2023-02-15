@@ -11,15 +11,15 @@
 
 - 🌱 I’m currently learning **AWS, MongoDB & NodeJS**
 
-- 👨‍💻 All of my projects are available at **[https://johnmclemadan.herokuapp.com/](https://johnmclemadan.herokuapp.com/)**
+- 👨‍💻 Check out my socials at **[myurls.co/jmadan](https://myurls.co/jmadan)**
 
-- 📝 I write articles on **[https://johnmclemadan.medium.com/](https://johnmclemadan.medium.com/)**
+- 📝 I write articles on **[johnmclemadan.medium.com](https://johnmclemadan.medium.com/)**
 
 - 💬 Ask me about **PHP, Laravel, Progressive Web Apps, & Career Switch**
 
 - 📫 Reach me via email at **mclemadan@gmail.com**
 
-- 📄 Know more about my experiences: [https://drive.google.com/file/d/11XUhzj-SBR-Dy5OoZ1GRK88ITEHDSalF/view?usp=sharing](https://drive.google.com/file/d/11XUhzj-SBR-Dy5OoZ1GRK88ITEHDSalF/view?usp=sharing)
+- 📄 Know more about my experiences: [My-Resume](https://drive.google.com/file/d/11XUhzj-SBR-Dy5OoZ1GRK88ITEHDSalF/view?usp=sharing)
 
 - ⚡ Fun fact: **I'm a Registered Marketing Professional and ex-Quality Assurance Tester**
 
