@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/mackysig_ph" target="blank"><img src="https://img.shields.io/twitter/follow/mackysig_ph?logo=twitter&style=for-the-badge" alt="mackysig_ph" /></a> </p>
 
-- 🌱 I’m currently learning **AWS, MongoDB & NodeJS**
+- 🌱 I’m currently learning **AWS, MongoDB, ExpressJS & NodeJS**
 
 - 👨‍💻 Check out my socials at **[myurls.co/jmadan](https://myurls.co/jmadan)**
 
