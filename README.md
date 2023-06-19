@@ -19,7 +19,7 @@
 
 - 📫 Reach me via email at **mclemadan@gmail.com**
 
-- 📄 Know more about my experiences: [My-Resume](https://github.com/johnadan/resume-website)
+- 📄 Know more about my experiences: [My-Resume](https://johnadan.github.io/resume-website)
 
 - ⚡ Fun fact: **I'm a Registered Marketing Professional and ex-Quality Assurance Tester**
 
