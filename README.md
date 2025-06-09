@@ -11,7 +11,7 @@
 
 <!--- 🌱 I’m currently learning **AWS, MongoDB, ExpressJS & NodeJS**-->
 
-- 👨‍💻 Check out my socials at **[myurls.co/jmadan](https://myurls.co/jmadan)**
+- 👨‍💻 Check out my web developer portfolio at **[tinyurl.com/jmadan](https://tinyurl.com/jmadan)**
 
 - 📝 I write articles on **[johnmclemadan.medium.com](https://johnmclemadan.medium.com/)**
 
@@ -19,7 +19,7 @@
 
 - 📫 Reach me via email at **mclemadan@gmail.com**
 
-- 📄 Know more about my experiences: [My-Resume](https://johnadan.github.io/resume-website)
+- 📄 Know more about my experiences: [My-Resume](https://drive.google.com/file/d/1lYNEfuffUXKmam2fFYy89K--zmwbNhbu/view?usp=drive_link)
 
 - ⚡ Fun fact: **I'm a Registered Marketing Professional and ex-Quality Assurance Tester**
 
